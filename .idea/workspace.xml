@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a93ba55-4667-472a-913c-0adc1407a0fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/RestaurantApi.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/blog/blog-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/blog/blogs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/coupon/apply-coupon-2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/coupon/demoo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/coupon/utils-apply-coupon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/gallery/image-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/gallery/images.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/info/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/info/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/info/demo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/info/info-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/menu-items/all-menuitems.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/menu-items/all-tabels.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/menu-items/menu-utils2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/menu-items/structure/all-menuitems.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/notification/add-firebase-notification-token-to-server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/notification/notification_utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/order/receive-order.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/add-address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/delete-address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/edit-address.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/edit-user-profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/get-user-full.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/get-user-orders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apis/user/user-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/curl_go_page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/curl_request_maker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/security/input-security.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/sqlconnection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sql/sqlconnection2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/constants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/curl_utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/image-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/menu-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/menu_item-utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/sync_utils.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/sqlconnection.php" afterPath="$PROJECT_DIR$/sql/sqlconnection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/menu_item-utils.php" afterPath="$PROJECT_DIR$/utils/menu_item-utils.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-utils.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog-utils.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apis/blog/blog-utils.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -101,6 +60,16 @@
                 <marker date="1500595010668" expanded="true" signature="557:687" ph="SELECT `blog... blogs_table" />
                 <marker date="1500595010668" expanded="true" signature="1453:1509" ph="SELECT * FRO... blogs_table" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sqlconnection.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sql/sqlconnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1224">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -506,12 +475,20 @@
       <workItem from="1500502612887" duration="3464000" />
       <workItem from="1500554216798" duration="934000" />
       <workItem from="1500557561192" duration="3094000" />
-      <workItem from="1500759139887" duration="492000" />
+      <workItem from="1500759139887" duration="564000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Category CRUD operations">
+      <created>1500759676971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500759676971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123752000" />
+    <option name="totallyTimeSpent" value="123824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,7 +501,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -554,6 +531,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Category CRUD operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Category CRUD operations" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="1" />
@@ -569,13 +550,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/curl_request_maker.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/sqlconnection.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -803,6 +777,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1500505731139" expanded="true" signature="381:424" ph="SELECT * FRO... sync_table" />
+            <marker date="1500505731139" expanded="true" signature="780:812" ph="SELECT * FRO... menu_items_table" />
+            <marker date="1500505731139" expanded="true" signature="963:996" ph="SELECT * FRO... menu_addons_table" />
+            <marker date="1500505731139" expanded="true" signature="1148:1188" ph="SELECT * FRO... menu_meta_category_table" />
+            <marker date="1500505731139" expanded="true" signature="1347:1390" ph="SELECT * FRO... menu_meta_subcategory_table" />
+            <marker date="1500505731139" expanded="true" signature="1551:1594" ph="SELECT * FRO... menu_meta_addongroups_table" />
+            <marker date="1500505731139" expanded="true" signature="1756:1792" ph="SELECT * FRO... menu_meta_size_table" />
+            <marker date="1500505731139" expanded="true" signature="1946:1992" ph="SELECT * FRO... menu_meta_rel_size_items_table" />
+            <marker date="1500505731139" expanded="true" signature="2157:2204" ph="SELECT * FRO... menu_meta_rel_size_addons_table" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -818,6 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -825,6 +811,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -832,6 +819,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="58" column="73" lean-forward="false" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+          <folding>
+            <element signature="n#getRestaurantContactInfo#0;n#!!top" expanded="false" />
+            <marker date="1500490061753" expanded="true" signature="119:162" ph="SELECT * FRO... sync_table" />
+            <marker date="1500490061753" expanded="true" signature="576:638" ph="SELECT * FRO... info_contact_table" />
+            <marker date="1500490061753" expanded="true" signature="1384:1427" ph="SELECT * FRO... sync_table" />
+            <marker date="1500490061753" expanded="true" signature="1841:1901" ph="SELECT * FRO... info_about_table" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -867,6 +861,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/sqlconnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1224">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
